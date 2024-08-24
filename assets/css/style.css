@@ -12667,6 +12667,48 @@ blockquote {
   background-repeat: no-repeat;
   background-position: center;
 }
+.aidev { 
+  background-image: url(../images/icons/AIiDevelopment.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.chatbotdev { 
+  background-image: url(../images/icons/AIChatbotDevelopment.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.gameedev { 
+  background-image: url(../images/icons/GameeDevelopment.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.RPAA { 
+  background-image: url(../images/icons/RPAA.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.websitedevelopment { 
+  background-image: url(../images/icons/WebDevelopment.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.mobileapp { 
+  background-image: url(../images/icons/MobileAppDevelopment.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.customsoftware { 
+  background-image: url(../images/icons/CustomSoftwareDevelopment.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 .portfolio-banner { 
   background-image: url(../images/icons/Portfolio.png);
   background-size: cover;
