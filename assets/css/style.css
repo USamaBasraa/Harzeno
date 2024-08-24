@@ -12649,8 +12649,32 @@ blockquote {
 /*=====================================
 =      40. About Us pages Css           =
 =======================================*/
-.about-us-bg {
+.about-us-bg { 
   background-image: url(../images/icons/aboutus.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.about-banner { 
+  background-image: url(../images/icons/AbouttUs.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.services-banner { 
+  background-image: url(../images/icons/OurServices.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.portfolio-banner { 
+  background-image: url(../images/icons/Portfolio.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.contact-banner { 
+  background-image: url(../images/icons/ContactUs.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
